@@ -12,7 +12,6 @@ node_modules
 package-lock.json
 /mochawesome-report
 build/
-dist/
 cypress/videos
 cypress/screenshots
 cypress/reports
